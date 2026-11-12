@@ -18,9 +18,12 @@
 - **[Volatility_forecasting](https://github.com/Robinx02/Volatility_forecasting)**: INR/USD realized volatility forecasting with the GARCH family
 
 ## 🧰 Tech
-**ML/DL:** PyTorch · scikit-learn · Transformers · Graph ML
-**Data/Econometrics:** pandas · NumPy · statsmodels · arch
-**Tools:** Git · VS Code · Jupyter
+
+**ML/DL:** PyTorch · PyTorch Geometric · scikit-learn · Transformers · CNNs · U-Net · Graph ML
+
+**Data/Econometrics:** pandas · NumPy · Matplotlib · statsmodels · arch
+
+**Tools:** Git · GitHub · VS Code · Jupyter
 
 ## 📫 Reach me
 <p>
