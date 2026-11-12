@@ -19,7 +19,8 @@
 
 ## 🧰 Tech
 
-**ML/DL:** PyTorch · PyTorch Geometric · scikit-learn · Transformers · CNNs · U-Net · Graph ML
+**ML/DL:** PyTorch · PyTorch Geometric · scikit-learn · Transformers
+· Graph ML
 
 **Data/Econometrics:** pandas · NumPy · Matplotlib · statsmodels · arch
 
